@@ -9,8 +9,6 @@ selenium-standalone
 
 Getting Started
 npm install
-npm test
-
 
 Additional Features
 VSCode debug configs to run single/all test(s)
